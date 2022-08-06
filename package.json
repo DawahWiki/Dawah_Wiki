@@ -1,0 +1,28 @@
+{
+  "name": "dawah-wiki",
+  "version": "1.0.0",
+  "description": "Dawah Wiki is an educational and academic website about Islam. Where people can write articles/blog post which will be verified by scholars and duat and can act as a safe place to gain true knowledge about Islam.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammedFaraz/Dawah-Wiki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammedFaraz/Dawah-Wiki/issues"
+  },
+  "homepage": "https://github.com/MuhammedFaraz/Dawah-Wiki#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.8"
+  },
+  "dependencies": {
+    "vite": "^3.0.4"
+  }
+}
